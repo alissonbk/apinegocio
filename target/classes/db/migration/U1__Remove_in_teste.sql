@@ -1,0 +1,1 @@
+DELETE FROM teste WHERE id = 2;
